@@ -21,7 +21,7 @@ Step 2: Configure and build the cloned repo:
 ./waf
 
 Step 3: Put your scenario in the scratch and run, 
-        You can test the BBR-ACD by implementing tcp-bbr-acd as transport layer protocol into your scenario.
+        You can test the BBR-ACD by implementing "TcpBbrAcd" as transport layer protocol into your scenario.
 
 ********************************************************
 
