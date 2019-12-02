@@ -1,6 +1,6 @@
 This repository has been created for experimenting the BBR-ACD scheme proposed in 
 "BBR-ACD: BBR with Advanced Congestion Detection".
-***The article has been submitted for review in IEEE Access.***
+***The article has been submitted for review in ELECTRONICS.***
 
 The BBR-ACD has been implemented on modified version of Jain et al.'s BBR implementation.
 
